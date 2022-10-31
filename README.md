@@ -18,7 +18,7 @@ git clone https://github.com/shaker87/Deshi-Ecommerce.git
 2. Go to the folder
 
 ```bash
-cd DeshiBazaarBD
+cd Deshi-Ecommerce
 ```
 
 3. Install Node packages
