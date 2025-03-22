@@ -2,7 +2,7 @@
 A complete multi vendor Ecommerce web application
 
 <p align="center">
-    <img width="400" src="[https://i.ibb.co/qJGc5JX/deshibazaarbd-homepage.jpg](https://i.ibb.co/qJGc5JX/deshibazaarbd-homepage.jpg)" alt="deshibazaarbd-homepage" />
+    <img width="400" src="https://i.ibb.co/qJGc5JX/deshibazaarbd-homepage.jpg" alt="deshibazaarbd-homepage" />
 </p>
 
 ---
